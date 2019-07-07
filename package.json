@@ -2,7 +2,7 @@
     "name": "glyph-theme",
     "displayName": "Glyph Theme",
     "description": "A both funny and serious theme.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "MeryllEssig",
     "engines": {
         "vscode": "^1.31.0"
