@@ -12,7 +12,7 @@ This theme is maintained by Meryll Essig.
 
 
 
-[![Meryll E.](https://avatars3.githubusercontent.com/u/9021786?s=460&v=4)](https://github.com/MeryllEssig) |
+[![Meryll E.](https://avatars3.githubusercontent.com/u/9021786?s=90&v=3)](https://github.com/MeryllEssig) |
 :---: |
 [Meryll E.](https://github.com/MeryllEssig) |
 
