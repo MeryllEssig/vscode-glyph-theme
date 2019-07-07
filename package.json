@@ -10,6 +10,15 @@
     "maintainers": [
         "Meryll Essig <meryll@essig.io>"
     ],
+    "keywords": [
+        "glyph",
+        "color-theme",
+        "galaxy",
+        "colorful",
+        "theme",
+        "dark",
+        "hipster"
+    ],
     "scripts": {
         "build:dev": "node ./scripts/dev.js",
         "build:prod": "node ./scripts/build.js",
