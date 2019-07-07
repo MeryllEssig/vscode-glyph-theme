@@ -11,7 +11,7 @@
         "build:dev": "node ./scripts/dev.js",
         "build:prod": "node ./scripts/build.js",
         "lint": "node ./scripts/lint.js",
-        "build:package": "vsce package -o ./bin/dracula.vsix",
+        "build:package": "vsce package -o ./bin/glyph.vsix",
         "vscode:prepublish": "npm run build:prod"
     },
     "categories": [
