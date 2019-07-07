@@ -1,12 +1,15 @@
 {
     "name": "glyph-theme",
     "displayName": "Glyph Theme",
-    "description": "A colorful color theme.",
-    "version": "0.0.1",
+    "description": "A funny serious color theme.",
+    "version": "0.0.2",
     "publisher": "MeryllEssig",
     "engines": {
         "vscode": "^1.33.0"
     },
+    "maintainers": [
+        "Meryll Essig <meryll@essig.io>"
+    ],
     "scripts": {
         "build:dev": "node ./scripts/dev.js",
         "build:prod": "node ./scripts/build.js",
@@ -19,7 +22,7 @@
     ],
     "contributes": {
         "themes": [{
-            "label": "Glyph Theme",
+            "label": "Glyph",
             "uiTheme": "vs-dark",
             "path": "./build/glyph.json"
         }]
@@ -28,6 +31,11 @@
         "js-yaml": "^3.13.1",
         "prettier": "^1.17.0",
         "tinycolor2": "^1.4.1"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#2D2B49",
+        "theme": "dark"
     },
     "repository": {
         "type": "git",
