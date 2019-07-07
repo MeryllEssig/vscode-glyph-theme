@@ -10,10 +10,16 @@
 
 This theme is maintained by Meryll Essig. 
 
+
+
+[![Meryll E.](https://avatars3.githubusercontent.com/u/9021786?s=460&v=4)](https://github.com/MeryllEssig) |
+:---: |
+[Meryll E.](https://github.com/MeryllEssig) |
+
 ## License
 
 [MIT License](https://github.com/MeryllEssig/vscode-glyph-theme/blob/master/LICENSE)
 
 ## Credits
 
-This theme has drops of the [Hipster theme](https://github.com/ModoNoob/vscode-hipster-theme) and the [Dracula theme](https://github.com/dracula/visual-studio-code). Thanks to their maintainer for their great work.
+This theme has drops of the [Hipster theme](https://github.com/ModoNoob/vscode-hipster-theme) and the [Dracula theme](https://github.com/dracula/visual-studio-code). Thanks to their maintainers for their great work.

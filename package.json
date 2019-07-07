@@ -1,11 +1,11 @@
 {
     "name": "glyph-theme",
     "displayName": "Glyph Theme",
-    "description": "A funny serious color theme.",
-    "version": "0.0.2",
-    "publisher": "MeryllEssig",
+    "description": "A both funny and serious theme.",
+    "version": "0.0.3",
+    "publisher": "Meryll Essig",
     "engines": {
-        "vscode": "^1.33.0"
+        "vscode": "^1.31.0"
     },
     "maintainers": [
         "Meryll Essig <meryll@essig.io>"
